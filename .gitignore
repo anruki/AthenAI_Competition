@@ -1,0 +1,26 @@
+# ---------------------------
+# Data files / datasets
+# ---------------------------
+data/                       # Ignore entire data folder
+*.csv                       # Ignore all CSVs
+*.zip                       # Ignore all ZIP files
+*.xls*                      # Ignore Excel files
+
+# ---------------------------
+# Python artifacts
+# ---------------------------
+__pycache__/                # Ignore Python cache folders
+*.py[cod]                   # Ignore compiled Python files
+*.pyo                       # Ignore optimized Python files
+
+# ---------------------------
+# VSCode / IDE
+# ---------------------------
+.vscode/                     # VSCode settings folder
+*.code-workspace             # VSCode workspace files
+
+# ---------------------------
+# System / temp files
+# ---------------------------
+.DS_Store                    # macOS
+Thumbs.db                    # Windows
