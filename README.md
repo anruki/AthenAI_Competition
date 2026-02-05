@@ -22,7 +22,7 @@ AthenAI Competition for ranking finance algorithms
 
 🎯 Evaluación
 - Se proporcionará un set de datos para diseñar tu modelo.
-- El rendimiento real se medirá con datos de validación al que no tendrás acceso.
+- El rendimiento real se medirá con datos de validación a los que no tendrás acceso.
 - Si tu modelo supera al benchmark y estás entre 𝗹𝗼𝘀 𝟯𝟬 𝗺𝗲𝗷𝗼𝗿𝗲𝘀, recibirás una 𝗯𝗲𝗰𝗮 𝗱𝗲 𝟲.𝟴𝟳𝟱 € para nuestro programa 𝗧𝗼𝗽 𝗤𝘂𝗮𝗻𝘁. Y si sois un equipo… ¡cada integrante recibe una beca!
 
 💡 En esta competición ¡𝙣𝙤 𝙝𝙖𝙮 𝙙𝙖𝙩𝙤𝙨 𝙨𝙞𝙣𝙩𝙚́𝙩𝙞𝙘𝙤𝙨, 𝙩𝙤𝙙𝙤 𝙚𝙨 𝙧𝙚𝙖𝙡! Es una gran oportunidad para demostrar tu talento. ¿Aceptas el reto?
